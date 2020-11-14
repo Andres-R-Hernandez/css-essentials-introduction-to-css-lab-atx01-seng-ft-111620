@@ -8,7 +8,7 @@ body {
 div {
   /* Your code here! */
   width:700px;
-  margin:0;
+  margin:auto;
   font:"Helvetica Neue";
   background:white;
   padding:30px;
